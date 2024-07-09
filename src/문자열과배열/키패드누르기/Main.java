@@ -1,4 +1,4 @@
-package 키패드누르기;
+package 문자열과배열.키패드누르기;
 
 class Solution {
     public String solution(int[] numbers, String hand) {

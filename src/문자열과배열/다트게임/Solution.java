@@ -1,4 +1,4 @@
-package 다트게임;
+package 문자열과배열.다트게임;
 
 class Solution {
     public int solution(String dartResult) {

@@ -1,4 +1,4 @@
-package DNA비밀번호;
+package 문자열과배열.DNA비밀번호;
 
 import java.io.BufferedReader;
 import java.io.IOException;

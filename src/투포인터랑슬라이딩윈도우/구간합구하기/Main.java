@@ -1,4 +1,4 @@
-package 구간합구하기;
+package 투포인터랑슬라이딩윈도우.구간합구하기;
 
 import java.util.Scanner;
 

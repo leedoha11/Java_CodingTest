@@ -1,4 +1,4 @@
-package 연속된자연수의합구하기_2018;
+package 투포인터랑슬라이딩윈도우.연속된자연수의합구하기_2018;
 
 import java.util.Scanner;
 

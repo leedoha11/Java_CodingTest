@@ -1,4 +1,4 @@
-package 주사위게임3;
+package 문자열과배열.주사위게임3;
 
 class Solution {
     public int solution(int a, int b, int c, int d) {

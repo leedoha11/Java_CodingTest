@@ -1,4 +1,4 @@
-package 주몽의명령;
+package 문자열과배열.주몽의명령;
 
 import java.util.Arrays;
 import java.util.Scanner;

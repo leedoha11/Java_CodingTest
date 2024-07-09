@@ -1,4 +1,4 @@
-package 대소문자바꿔서출력하기;
+package 문자열과배열.대소문자바꿔서출력하기;
 
 public class Solution {
     public String solution(String str){
